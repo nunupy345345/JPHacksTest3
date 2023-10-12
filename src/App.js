@@ -18,7 +18,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>フロントエンド</h1>
+      <h1>フロントエンド1</h1>
       //useStateに保存した値を表示
       <p>{ message }</p>
     </div>
